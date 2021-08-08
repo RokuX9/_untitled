@@ -1,0 +1,1312 @@
+{ "frames": [
+   {
+    "filename": "wind_hashashin 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 1.aseprite",
+    "frame": { "x": 224, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 2.aseprite",
+    "frame": { "x": 448, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 3.aseprite",
+    "frame": { "x": 672, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 4.aseprite",
+    "frame": { "x": 896, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 5.aseprite",
+    "frame": { "x": 1120, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 6.aseprite",
+    "frame": { "x": 1344, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 7.aseprite",
+    "frame": { "x": 1568, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 8.aseprite",
+    "frame": { "x": 1792, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 9.aseprite",
+    "frame": { "x": 2016, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 10.aseprite",
+    "frame": { "x": 2240, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 11.aseprite",
+    "frame": { "x": 2464, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 12.aseprite",
+    "frame": { "x": 2688, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 13.aseprite",
+    "frame": { "x": 2912, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 14.aseprite",
+    "frame": { "x": 3136, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 15.aseprite",
+    "frame": { "x": 3360, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 16.aseprite",
+    "frame": { "x": 3584, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 17.aseprite",
+    "frame": { "x": 3808, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 18.aseprite",
+    "frame": { "x": 4032, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 19.aseprite",
+    "frame": { "x": 4256, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 20.aseprite",
+    "frame": { "x": 4480, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 21.aseprite",
+    "frame": { "x": 4704, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 22.aseprite",
+    "frame": { "x": 4928, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 23.aseprite",
+    "frame": { "x": 5152, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 24.aseprite",
+    "frame": { "x": 5376, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 25.aseprite",
+    "frame": { "x": 5600, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 26.aseprite",
+    "frame": { "x": 5824, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 27.aseprite",
+    "frame": { "x": 6048, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 28.aseprite",
+    "frame": { "x": 6272, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 29.aseprite",
+    "frame": { "x": 6496, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 30.aseprite",
+    "frame": { "x": 6720, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 31.aseprite",
+    "frame": { "x": 6944, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 32.aseprite",
+    "frame": { "x": 7168, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 33.aseprite",
+    "frame": { "x": 7392, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 34.aseprite",
+    "frame": { "x": 7616, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 35.aseprite",
+    "frame": { "x": 7840, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 36.aseprite",
+    "frame": { "x": 8064, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 37.aseprite",
+    "frame": { "x": 8288, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 38.aseprite",
+    "frame": { "x": 8512, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 39.aseprite",
+    "frame": { "x": 8736, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 40.aseprite",
+    "frame": { "x": 8960, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 41.aseprite",
+    "frame": { "x": 9184, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 42.aseprite",
+    "frame": { "x": 9408, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 43.aseprite",
+    "frame": { "x": 9632, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 44.aseprite",
+    "frame": { "x": 9856, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 45.aseprite",
+    "frame": { "x": 10080, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 46.aseprite",
+    "frame": { "x": 10304, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 47.aseprite",
+    "frame": { "x": 10528, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 48.aseprite",
+    "frame": { "x": 10752, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 49.aseprite",
+    "frame": { "x": 10976, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 50.aseprite",
+    "frame": { "x": 11200, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 51.aseprite",
+    "frame": { "x": 11424, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 52.aseprite",
+    "frame": { "x": 11648, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 53.aseprite",
+    "frame": { "x": 11872, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 54.aseprite",
+    "frame": { "x": 12096, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 55.aseprite",
+    "frame": { "x": 12320, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 56.aseprite",
+    "frame": { "x": 12544, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 57.aseprite",
+    "frame": { "x": 12768, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 58.aseprite",
+    "frame": { "x": 12992, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 59.aseprite",
+    "frame": { "x": 13216, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 60.aseprite",
+    "frame": { "x": 13440, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 61.aseprite",
+    "frame": { "x": 13664, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 62.aseprite",
+    "frame": { "x": 13888, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 63.aseprite",
+    "frame": { "x": 14112, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 64.aseprite",
+    "frame": { "x": 14336, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 65.aseprite",
+    "frame": { "x": 14560, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 66.aseprite",
+    "frame": { "x": 14784, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 67.aseprite",
+    "frame": { "x": 15008, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 68.aseprite",
+    "frame": { "x": 15232, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 69.aseprite",
+    "frame": { "x": 15456, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 70.aseprite",
+    "frame": { "x": 15680, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 71.aseprite",
+    "frame": { "x": 15904, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 72.aseprite",
+    "frame": { "x": 16128, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 73.aseprite",
+    "frame": { "x": 16352, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 74.aseprite",
+    "frame": { "x": 16576, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 75.aseprite",
+    "frame": { "x": 16800, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 76.aseprite",
+    "frame": { "x": 17024, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 77.aseprite",
+    "frame": { "x": 17248, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 78.aseprite",
+    "frame": { "x": 17472, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 79.aseprite",
+    "frame": { "x": 17696, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 80.aseprite",
+    "frame": { "x": 17920, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 81.aseprite",
+    "frame": { "x": 18144, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 82.aseprite",
+    "frame": { "x": 18368, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 83.aseprite",
+    "frame": { "x": 18592, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 84.aseprite",
+    "frame": { "x": 18816, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 85.aseprite",
+    "frame": { "x": 19040, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 86.aseprite",
+    "frame": { "x": 19264, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 87.aseprite",
+    "frame": { "x": 19488, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 88.aseprite",
+    "frame": { "x": 19712, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 89.aseprite",
+    "frame": { "x": 19936, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 90.aseprite",
+    "frame": { "x": 20160, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 91.aseprite",
+    "frame": { "x": 20384, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 92.aseprite",
+    "frame": { "x": 20608, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 93.aseprite",
+    "frame": { "x": 20832, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 94.aseprite",
+    "frame": { "x": 21056, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 95.aseprite",
+    "frame": { "x": 21280, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 96.aseprite",
+    "frame": { "x": 21504, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 97.aseprite",
+    "frame": { "x": 21728, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 98.aseprite",
+    "frame": { "x": 21952, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 99.aseprite",
+    "frame": { "x": 22176, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 100.aseprite",
+    "frame": { "x": 22400, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 101.aseprite",
+    "frame": { "x": 22624, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 102.aseprite",
+    "frame": { "x": 22848, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 103.aseprite",
+    "frame": { "x": 23072, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 104.aseprite",
+    "frame": { "x": 23296, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 105.aseprite",
+    "frame": { "x": 23520, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 106.aseprite",
+    "frame": { "x": 23744, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 107.aseprite",
+    "frame": { "x": 23968, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 108.aseprite",
+    "frame": { "x": 24192, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 109.aseprite",
+    "frame": { "x": 24416, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 110.aseprite",
+    "frame": { "x": 24640, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 111.aseprite",
+    "frame": { "x": 24864, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 112.aseprite",
+    "frame": { "x": 25088, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 113.aseprite",
+    "frame": { "x": 25312, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 114.aseprite",
+    "frame": { "x": 25536, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 115.aseprite",
+    "frame": { "x": 25760, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 116.aseprite",
+    "frame": { "x": 25984, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 117.aseprite",
+    "frame": { "x": 26208, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 118.aseprite",
+    "frame": { "x": 26432, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 119.aseprite",
+    "frame": { "x": 26656, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 120.aseprite",
+    "frame": { "x": 26880, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 121.aseprite",
+    "frame": { "x": 27104, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 122.aseprite",
+    "frame": { "x": 27328, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 123.aseprite",
+    "frame": { "x": 27552, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 124.aseprite",
+    "frame": { "x": 27776, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 125.aseprite",
+    "frame": { "x": 28000, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 126.aseprite",
+    "frame": { "x": 28224, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 127.aseprite",
+    "frame": { "x": 28448, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 128.aseprite",
+    "frame": { "x": 28672, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 129.aseprite",
+    "frame": { "x": 28896, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 130.aseprite",
+    "frame": { "x": 29120, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 131.aseprite",
+    "frame": { "x": 29344, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 132.aseprite",
+    "frame": { "x": 29568, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 133.aseprite",
+    "frame": { "x": 29792, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 134.aseprite",
+    "frame": { "x": 30016, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 135.aseprite",
+    "frame": { "x": 30240, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 136.aseprite",
+    "frame": { "x": 30464, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 137.aseprite",
+    "frame": { "x": 30688, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 138.aseprite",
+    "frame": { "x": 30912, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 139.aseprite",
+    "frame": { "x": 31136, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 140.aseprite",
+    "frame": { "x": 31360, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 141.aseprite",
+    "frame": { "x": 31584, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "wind_hashashin 142.aseprite",
+    "frame": { "x": 31808, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.28-x64",
+  "image": "wind_hashashin.png",
+  "format": "RGBA8888",
+  "size": { "w": 32032, "h": 112 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 7, "direction": "forward" },
+   { "name": "run", "from": 8, "to": 15, "direction": "forward" },
+   { "name": "j_up", "from": 16, "to": 18, "direction": "forward" },
+   { "name": "j_down", "from": 19, "to": 21, "direction": "forward" },
+   { "name": "roll", "from": 22, "to": 27, "direction": "forward" },
+   { "name": "1_atk", "from": 28, "to": 35, "direction": "forward" },
+   { "name": "2_atk", "from": 36, "to": 53, "direction": "forward" },
+   { "name": "3_atk", "from": 54, "to": 79, "direction": "forward" },
+   { "name": "sp_atk", "from": 80, "to": 109, "direction": "forward" },
+   { "name": "defend", "from": 110, "to": 117, "direction": "forward" },
+   { "name": "take_hit", "from": 118, "to": 123, "direction": "forward" },
+   { "name": "death", "from": 124, "to": 142, "direction": "forward" }
+  ]
+ }
+}

@@ -1,0 +1,1575 @@
+{ "frames": [
+   {
+    "filename": "water_basic 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 1.aseprite",
+    "frame": { "x": 224, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 2.aseprite",
+    "frame": { "x": 448, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 3.aseprite",
+    "frame": { "x": 672, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 4.aseprite",
+    "frame": { "x": 896, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 5.aseprite",
+    "frame": { "x": 1120, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 6.aseprite",
+    "frame": { "x": 1344, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 7.aseprite",
+    "frame": { "x": 1568, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 8.aseprite",
+    "frame": { "x": 1792, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 9.aseprite",
+    "frame": { "x": 2016, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 10.aseprite",
+    "frame": { "x": 2240, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 11.aseprite",
+    "frame": { "x": 2464, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 12.aseprite",
+    "frame": { "x": 2688, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 13.aseprite",
+    "frame": { "x": 2912, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 14.aseprite",
+    "frame": { "x": 3136, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 15.aseprite",
+    "frame": { "x": 3360, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 16.aseprite",
+    "frame": { "x": 3584, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 17.aseprite",
+    "frame": { "x": 3808, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 18.aseprite",
+    "frame": { "x": 4032, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 19.aseprite",
+    "frame": { "x": 4256, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 20.aseprite",
+    "frame": { "x": 4480, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 21.aseprite",
+    "frame": { "x": 4704, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 22.aseprite",
+    "frame": { "x": 4928, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 23.aseprite",
+    "frame": { "x": 5152, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 24.aseprite",
+    "frame": { "x": 5376, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 25.aseprite",
+    "frame": { "x": 5600, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 26.aseprite",
+    "frame": { "x": 5824, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 27.aseprite",
+    "frame": { "x": 6048, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 28.aseprite",
+    "frame": { "x": 6272, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 29.aseprite",
+    "frame": { "x": 6496, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 30.aseprite",
+    "frame": { "x": 6720, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 31.aseprite",
+    "frame": { "x": 6944, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 32.aseprite",
+    "frame": { "x": 7168, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 33.aseprite",
+    "frame": { "x": 7392, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 34.aseprite",
+    "frame": { "x": 7616, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 35.aseprite",
+    "frame": { "x": 7840, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 36.aseprite",
+    "frame": { "x": 8064, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 37.aseprite",
+    "frame": { "x": 8288, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 38.aseprite",
+    "frame": { "x": 8512, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 39.aseprite",
+    "frame": { "x": 8736, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 40.aseprite",
+    "frame": { "x": 8960, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 41.aseprite",
+    "frame": { "x": 9184, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 42.aseprite",
+    "frame": { "x": 9408, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 43.aseprite",
+    "frame": { "x": 9632, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 44.aseprite",
+    "frame": { "x": 9856, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 45.aseprite",
+    "frame": { "x": 10080, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 46.aseprite",
+    "frame": { "x": 10304, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 47.aseprite",
+    "frame": { "x": 10528, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 48.aseprite",
+    "frame": { "x": 10752, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 49.aseprite",
+    "frame": { "x": 10976, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 50.aseprite",
+    "frame": { "x": 11200, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 51.aseprite",
+    "frame": { "x": 11424, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 52.aseprite",
+    "frame": { "x": 11648, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 53.aseprite",
+    "frame": { "x": 11872, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 54.aseprite",
+    "frame": { "x": 12096, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 55.aseprite",
+    "frame": { "x": 12320, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 56.aseprite",
+    "frame": { "x": 12544, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 57.aseprite",
+    "frame": { "x": 12768, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 58.aseprite",
+    "frame": { "x": 12992, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 59.aseprite",
+    "frame": { "x": 13216, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 60.aseprite",
+    "frame": { "x": 13440, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 61.aseprite",
+    "frame": { "x": 13664, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 62.aseprite",
+    "frame": { "x": 13888, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 63.aseprite",
+    "frame": { "x": 14112, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 64.aseprite",
+    "frame": { "x": 14336, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 65.aseprite",
+    "frame": { "x": 14560, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 66.aseprite",
+    "frame": { "x": 14784, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 67.aseprite",
+    "frame": { "x": 15008, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 68.aseprite",
+    "frame": { "x": 15232, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 69.aseprite",
+    "frame": { "x": 15456, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 70.aseprite",
+    "frame": { "x": 15680, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 71.aseprite",
+    "frame": { "x": 15904, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 72.aseprite",
+    "frame": { "x": 16128, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 73.aseprite",
+    "frame": { "x": 16352, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 74.aseprite",
+    "frame": { "x": 16576, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 75.aseprite",
+    "frame": { "x": 16800, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 76.aseprite",
+    "frame": { "x": 17024, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 77.aseprite",
+    "frame": { "x": 17248, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 78.aseprite",
+    "frame": { "x": 17472, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 79.aseprite",
+    "frame": { "x": 17696, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 80.aseprite",
+    "frame": { "x": 17920, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 81.aseprite",
+    "frame": { "x": 18144, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 82.aseprite",
+    "frame": { "x": 18368, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 83.aseprite",
+    "frame": { "x": 18592, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 84.aseprite",
+    "frame": { "x": 18816, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 85.aseprite",
+    "frame": { "x": 19040, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 86.aseprite",
+    "frame": { "x": 19264, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 87.aseprite",
+    "frame": { "x": 19488, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 88.aseprite",
+    "frame": { "x": 19712, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 89.aseprite",
+    "frame": { "x": 19936, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 90.aseprite",
+    "frame": { "x": 20160, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 91.aseprite",
+    "frame": { "x": 20384, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 92.aseprite",
+    "frame": { "x": 20608, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 93.aseprite",
+    "frame": { "x": 20832, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 94.aseprite",
+    "frame": { "x": 21056, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 95.aseprite",
+    "frame": { "x": 21280, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 96.aseprite",
+    "frame": { "x": 21504, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 97.aseprite",
+    "frame": { "x": 21728, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 98.aseprite",
+    "frame": { "x": 21952, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 99.aseprite",
+    "frame": { "x": 22176, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 100.aseprite",
+    "frame": { "x": 22400, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 101.aseprite",
+    "frame": { "x": 22624, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 102.aseprite",
+    "frame": { "x": 22848, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 103.aseprite",
+    "frame": { "x": 23072, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 104.aseprite",
+    "frame": { "x": 23296, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 105.aseprite",
+    "frame": { "x": 23520, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 106.aseprite",
+    "frame": { "x": 23744, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 107.aseprite",
+    "frame": { "x": 23968, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 108.aseprite",
+    "frame": { "x": 24192, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 109.aseprite",
+    "frame": { "x": 24416, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 110.aseprite",
+    "frame": { "x": 24640, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 111.aseprite",
+    "frame": { "x": 24864, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 112.aseprite",
+    "frame": { "x": 25088, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 113.aseprite",
+    "frame": { "x": 25312, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 114.aseprite",
+    "frame": { "x": 25536, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 115.aseprite",
+    "frame": { "x": 25760, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 116.aseprite",
+    "frame": { "x": 25984, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 117.aseprite",
+    "frame": { "x": 26208, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 118.aseprite",
+    "frame": { "x": 26432, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 119.aseprite",
+    "frame": { "x": 26656, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 120.aseprite",
+    "frame": { "x": 26880, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 121.aseprite",
+    "frame": { "x": 27104, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 122.aseprite",
+    "frame": { "x": 27328, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 123.aseprite",
+    "frame": { "x": 27552, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 124.aseprite",
+    "frame": { "x": 27776, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 125.aseprite",
+    "frame": { "x": 28000, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 126.aseprite",
+    "frame": { "x": 28224, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 127.aseprite",
+    "frame": { "x": 28448, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 128.aseprite",
+    "frame": { "x": 28672, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 129.aseprite",
+    "frame": { "x": 28896, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 130.aseprite",
+    "frame": { "x": 29120, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 131.aseprite",
+    "frame": { "x": 29344, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 132.aseprite",
+    "frame": { "x": 29568, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 133.aseprite",
+    "frame": { "x": 29792, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 134.aseprite",
+    "frame": { "x": 30016, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 135.aseprite",
+    "frame": { "x": 30240, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 136.aseprite",
+    "frame": { "x": 30464, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 137.aseprite",
+    "frame": { "x": 30688, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 138.aseprite",
+    "frame": { "x": 30912, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 139.aseprite",
+    "frame": { "x": 31136, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 140.aseprite",
+    "frame": { "x": 31360, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 141.aseprite",
+    "frame": { "x": 31584, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 142.aseprite",
+    "frame": { "x": 31808, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 143.aseprite",
+    "frame": { "x": 32032, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 144.aseprite",
+    "frame": { "x": 32256, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 145.aseprite",
+    "frame": { "x": 32480, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 146.aseprite",
+    "frame": { "x": 32704, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 147.aseprite",
+    "frame": { "x": 32928, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 148.aseprite",
+    "frame": { "x": 33152, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 149.aseprite",
+    "frame": { "x": 33376, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 150.aseprite",
+    "frame": { "x": 33600, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 151.aseprite",
+    "frame": { "x": 33824, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 152.aseprite",
+    "frame": { "x": 34048, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 153.aseprite",
+    "frame": { "x": 34272, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 154.aseprite",
+    "frame": { "x": 34496, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 155.aseprite",
+    "frame": { "x": 34720, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 156.aseprite",
+    "frame": { "x": 34944, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 157.aseprite",
+    "frame": { "x": 35168, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 158.aseprite",
+    "frame": { "x": 35392, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 159.aseprite",
+    "frame": { "x": 35616, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 160.aseprite",
+    "frame": { "x": 35840, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 161.aseprite",
+    "frame": { "x": 36064, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 162.aseprite",
+    "frame": { "x": 36288, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 163.aseprite",
+    "frame": { "x": 36512, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 164.aseprite",
+    "frame": { "x": 36736, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 165.aseprite",
+    "frame": { "x": 36960, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 166.aseprite",
+    "frame": { "x": 37184, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 167.aseprite",
+    "frame": { "x": 37408, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 168.aseprite",
+    "frame": { "x": 37632, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 169.aseprite",
+    "frame": { "x": 37856, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 170.aseprite",
+    "frame": { "x": 38080, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "water_basic 171.aseprite",
+    "frame": { "x": 38304, "y": 0, "w": 224, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 224, "h": 112 },
+    "sourceSize": { "w": 224, "h": 112 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.28-x64",
+  "image": "water_basic.png",
+  "format": "RGBA8888",
+  "size": { "w": 38528, "h": 112 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 7, "direction": "forward" },
+   { "name": "walk", "from": 8, "to": 17, "direction": "forward" },
+   { "name": "surf", "from": 18, "to": 25, "direction": "forward" },
+   { "name": "j_up", "from": 26, "to": 28, "direction": "forward" },
+   { "name": "j_down", "from": 29, "to": 31, "direction": "forward" },
+   { "name": "tumble", "from": 32, "to": 37, "direction": "forward" },
+   { "name": "1_atk", "from": 38, "to": 44, "direction": "forward" },
+   { "name": "2_atk", "from": 45, "to": 65, "direction": "forward" },
+   { "name": "3_atk", "from": 66, "to": 92, "direction": "forward" },
+   { "name": "sp_atk", "from": 93, "to": 124, "direction": "forward" },
+   { "name": "heal", "from": 125, "to": 136, "direction": "forward" },
+   { "name": "defend", "from": 137, "to": 148, "direction": "forward" },
+   { "name": "take_hit", "from": 149, "to": 155, "direction": "forward" },
+   { "name": "death", "from": 156, "to": 171, "direction": "forward" }
+  ]
+ }
+}
