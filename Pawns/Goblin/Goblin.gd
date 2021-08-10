@@ -55,7 +55,7 @@ func is_on_edge():
 func _on_timeout():
 	flipped = flipped * -1
 	waiting = false
-	print_debug('flipped')
+	
 	
 func get_hit(force):
 	if !dead:

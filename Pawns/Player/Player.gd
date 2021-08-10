@@ -162,24 +162,19 @@ func attack():
 			if attack_counter == 0:
 				attack_counter += 1
 				PlayerAnimatedSprite.play('attack1')
-				print_debug('attack1')
 			elif attack_counter == 1:
 				attack_counter += 1
 				PlayerAnimatedSprite.play('attack2')
-				print_debug('attack2')
 			elif attack_counter == 2:
 				PlayerAnimatedSprite.play('attack3')
-				print_debug('attack3')
 				attack_counter = 0
 		else:
 			if attack_counter == 0:
 				attack_counter += 1
 				PlayerAnimatedSprite.play('air-attack1')
-				print_debug('air-attack 1')
 			elif attack_counter == 1:
 				PlayerAnimatedSprite.play('air-attack2')
 				attack_counter = 0
-				print_debug('air-attack 2')
 		hit(hit_force)
 		attack_timer.start(0.5)
 		attacking = true
@@ -188,9 +183,7 @@ func hit(force):
 	if raycast.is_colliding():
 		var target = raycast.get_collider()
 		if target:
-			print_debug('target')
 			if target.has_method('get_hit'):
-				print_debug('hit')
 				target.get_hit(force)
 
 func _on_attack_timeout():

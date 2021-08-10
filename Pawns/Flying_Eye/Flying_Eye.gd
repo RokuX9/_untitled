@@ -28,9 +28,10 @@ func _process(delta):
 			vertical_movement()
 	else:
 		velocity.y = gravity
-	move_and_slide(velocity, Vector2.UP)
-	if position.x < -50:
+	velocity = move_and_slide(velocity, Vector2.UP)
+	if global_position.x < 0:
 		queue_free()
+		print_debug('destroy')
 	if health <= 0 :
 		die()
 	
@@ -39,6 +40,7 @@ func _on_hit_timeout():
 	stunned = false
 
 func vertical_movement():
+	sprite.play('fly')
 	if position.y <= 0:
 		direction = 1
 	if position.y >= 600:

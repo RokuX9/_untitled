@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://Levels/Fight_Platform.gd" type="Script" id=1]
+[ext_resource path="res://Levels/Fighting_Platform/Fight_Platform.gd" type="Script" id=1]
 [ext_resource path="res://Tilesets/tiles.tres" type="TileSet" id=2]
 
 [node name="Fight_Platform" type="TileMap"]
