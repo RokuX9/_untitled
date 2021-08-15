@@ -3,12 +3,10 @@
 [ext_resource path="res://Pawns/Player/Player.gd" type="Script" id=1]
 [ext_resource path="res://Pawns/Player/adventurer.res" type="SpriteFrames" id=2]
 
-
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 10, 13 )
 
 [node name="Player" type="KinematicBody2D"]
-collision_mask = 2147483649
 script = ExtResource( 1 )
 move_speed = 500
 accl = 1000
@@ -19,6 +17,7 @@ max_fall_speed = 200
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
 frames = ExtResource( 2 )
 animation = "idle-2"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
@@ -29,9 +28,13 @@ shape = SubResource( 1 )
 one_shot = true
 
 [node name="RayCast2D" type="RayCast2D" parent="."]
+position = Vector2( 0, 5 )
 enabled = true
 cast_to = Vector2( 16, 0 )
 collision_mask = 6
 
 [node name="Attack_Timer" type="Timer" parent="."]
+one_shot = true
+
+[node name="Inv_Timer" type="Timer" parent="."]
 one_shot = true

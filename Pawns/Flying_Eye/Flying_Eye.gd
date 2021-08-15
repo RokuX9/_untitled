@@ -6,8 +6,10 @@ extends KinematicBody2D
 # var b = "text"
 
 export (int) var health = 10
+export (int) var force = 5
 onready var sprite = $AnimatedSprite
 onready var hit_timer = $hit_timer
+onready var hit_area = $Hit_Area
 var velocity = Vector2.ZERO
 var stunned = false
 var gravity = 50
@@ -15,9 +17,12 @@ var move_speed = 100
 var direction = 1
 var dead = false
 
+signal die(name)
+
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	hit_timer.connect("timeout", self, "_on_hit_timeout")
+	hit_area.connect("body_entered", self, 'on_body_enter_hit')
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
@@ -29,9 +34,8 @@ func _process(delta):
 	else:
 		velocity.y = gravity
 	velocity = move_and_slide(velocity, Vector2.UP)
-	if global_position.x < 0:
+	if global_position.x < 0 and global_position.x > 2048:
 		queue_free()
-		print_debug('destroy')
 	if health <= 0 :
 		die()
 	
@@ -51,16 +55,27 @@ func vertical_movement():
 #func horizontal_movement(delta):
 #	position.x -= move_speed * delta
 
-func get_hit(force):
+func get_hit(_force):
 	if !dead:
-		health -= force
+		health -= _force
 		stunned = true
-		velocity.x = 0
+		velocity.y = 0
 		sprite.play('hit')
 		sprite.frame = 0
 		hit_timer.start(1)
 
 func die():
 	dead = true
-	velocity.x = 0
 	sprite.play('death')
+	emit_signal('die', 'flying_eye')
+
+func on_body_enter_hit(body):
+	print_debug('eye_detect')
+	if body.has_method('_get_hit'):
+		var _direction = 0
+		if position.x - body.position.x < 0:
+			_direction = 1
+		elif position.x - body.position.x > 0:
+			_direction = -1
+		if !body.attacking:
+			body._get_hit(force, direction)

@@ -22,4 +22,3 @@ position = Vector2( 283, 259 )
 position = Vector2( 437.628, 239.031 )
 
 [node name="Flying_Eye" parent="." instance=ExtResource( 2 )]
-position = Vector2( 350.689, 249.396 )
