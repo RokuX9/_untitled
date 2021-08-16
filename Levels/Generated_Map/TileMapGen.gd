@@ -61,7 +61,7 @@ func create_map(floor_up_lim, floor_low_lim, length, _current_x, _current_y):
 				if wall_distance + xandy[0] < 63:
 					xandy = create_wall(xandy[0] + wall_distance, xandy[1], wall_length)
 			if spawn_eyes:
-				var intented_x_pos = current_x + 2 if insert_wall == 1 else 1
+				var intented_x_pos = current_x + 2 if insert_wall == 1 else current_x + 1
 				if intented_x_pos > last_eye_x_pos:
 					var eye_position = intented_x_pos * 16
 					create_eye(eye_position)
@@ -94,11 +94,11 @@ func create_eye(position_x):
 	eye_instance.position.x = position_x
 	eye_instance.position.y = height
 	add_child(eye_instance)
-	print_debug('create')
 	
 func _init_spawn_eyes():
 	spawn_eyes = true
+	print_debug('spawn_eyes set!')
 
 func _update_spawn_eyes():
 	spawn_eyes = false
-	print_debug('updated')
+	print_debug('spawn_eyes updated!')

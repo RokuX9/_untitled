@@ -54,7 +54,7 @@ func search_next_platform():
 	var spawn_eyes = randi() % 11
 	var spawn_goblin = randi() % 11
 	
-	if spawn_eyes > 8:
+	if spawn_eyes > 5:
 		sprite.play('attack1')
 		yield(sprite, "animation_finished")
 		sprite.play('idle')
@@ -66,7 +66,7 @@ func search_next_platform():
 		while hight < 600 and not found:
 			if (test_move(Transform2D(0.0 ,Vector2(width + current_step, hight)), Vector2.DOWN)):
 				if (test_move(Transform2D(0.0 ,Vector2(width + (current_step + step + 8), hight)), Vector2.DOWN)):
-					if spawn_eyes > 8:
+					if spawn_eyes > 5:
 						spawn_flying_eyes()
 					if spawn_goblin < 4 and !spawned:
 						spawn_goblin()
