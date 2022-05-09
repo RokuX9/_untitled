@@ -30,6 +30,7 @@ func _ready():
 	timer.connect("timeout", self, '_on_timeout')
 	hit_timer.connect("timeout", self, '_on_hit_timeout')
 	fov.connect("body_entered", self, '_on_body_enter_sight')
+	fov.connect("body_exited", self, '_on_body_exit_sight')
 	hit_area.connect("body_entered", self, '_on_body_enter_hit')
 
 
@@ -48,8 +49,7 @@ func _process(delta):
 				velocity.x = move_speed * flipped
 				spriteanimation.play('run')
 				if target:
-					if fov.overlaps_body(target):
-						follow_target(target)
+					follow_target(target)
 			else:
 				spriteanimation.play('idle')
 				velocity.x = 0
@@ -58,11 +58,9 @@ func _process(delta):
 	if health <= 0 and !dead:
 		die()
 	velocity = move_and_slide_with_snap(velocity, Vector2.DOWN, Vector2.UP)
-	if position.x < -50:
-		queue_free()
 	
 func is_on_edge():
-	if test_move(Transform2D(0.0 ,Vector2(position.x + (16 * flipped), position.y)), Vector2.DOWN * 8):
+	if test_move(Transform2D(0.0 ,Vector2(global_position.x + (16 * flipped), global_position.y)), Vector2.DOWN):
 		return false
 	else:
 		return true
@@ -91,19 +89,22 @@ func _on_hit_timeout():
 	stunned = false
 
 func _on_body_enter_sight(body):
-	if body.has_method('_get_hit') and !body.dead and !dead and !stunned:
+	if body.has_method('_get_hit') and !body.dead and !dead:
 		target = body
-		if position.x - body.position.x < 0 and flipped == -1:
+		if global_position.x < target.global_position.x and flipped == -1:
 			flipped = flipped * -1
-		elif position.x - body.position.x > 0 and flipped == 1:
+		elif global_position.x > target.global_position.x and flipped == 1:
 			flipped = flipped * -1
 	elif body.has_method('_get_hit') and body.dead:
 		target = null
 
+func _on_body_exit_sight(body):
+	target = null
+
 func follow_target(_target):
-	if position.x - _target.position.x < 0 and flipped == -1:
+	if global_position.x < _target.global_position.x and flipped == -1:
 		flipped = flipped * -1
-	elif position.x - _target.position.x > 0 and flipped == 1:
+	elif global_position.x > _target.global_position.x and flipped == 1:
 		flipped = flipped * -1
 
 func _on_body_enter_hit(body):
@@ -123,18 +124,19 @@ func hit(_force):
 		print_debug('goblin_attack')
 		if collider.has_method('_get_hit'):
 			var direction = 0
-			if position.x - target.position.x < 0:
+			if global_position.x > target.global_position.x:
 				direction = 1
-			elif position.x - target.position.x > 0:
+			elif global_position.x < target.global_position.x:
 				direction = -1
 			collider._get_hit(_force, direction)
 	attacking = false
-	if hit_area.overlaps_body(target):
-		if position.x - target.position.x < 0 and flipped == -1:
+	
+	if target && hit_area.overlaps_body(target):
+		if global_position.x < target.global_position.x and flipped == -1:
 			flipped = 1
 			spriteanimation.flip_h = true
 			
-		elif position.x - target.position.x > 0 and flipped == 1:
+		elif global_position.x > target.global_position.x and flipped == 1:
 			flipped = -1
 			spriteanimation.flip_h = false
 		hit(_force)

@@ -9,6 +9,7 @@ var dash_pos = Vector2.ZERO
 var dashing = false
 var sliding = false
 var attacking = false
+var attackFinished = true
 var attack_counter = 0
 export (int) var move_speed = 100
 export (int) var accl = 20
@@ -43,10 +44,12 @@ onready var timer = $Timer
 onready var attack_timer = $Attack_Timer
 onready var raycast = $RayCast2D
 onready var inv_timer = $Inv_Timer
+onready var camera = $Camera2D
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	timer.connect("timeout", self, "_on_timer_runout")
 	attack_timer.connect("timeout", self, "_on_attack_timeout")
+	PlayerAnimatedSprite.connect("animation_finished", self, "_on_attack_end")
 	inv_timer.connect("timeout", self, 'on_inv_timeout')
 	timer.stop()
 #	var PlayerAnimatedSprite = $AnimatedSprite
@@ -85,6 +88,7 @@ func _process(delta):
 		
 		
 	velocity = move_and_slide_with_snap(velocity, snap, Vector2(0,-1))
+	camera.global_position.y = 300
 	
 
 func get_input():
@@ -157,6 +161,7 @@ func vertical_velocity():
 
 func wall_slide():
 	if is_on_wall() and input_vector.x != 0 and not is_on_floor():
+		reset_attack()
 		timer.stop()
 		dashing = false
 		used_jumps = 0
@@ -178,15 +183,15 @@ func wall_slide():
 
 func flip_sprite_and_raycast():
 	if !sliding:
-		if crosshair_pos.x < position.x:
+		if input_vector.x < 0:
 			PlayerAnimatedSprite.flip_h = true
 			raycast.cast_to = Vector2(-16,0)
-		elif crosshair_pos.x > position.x:
+		elif input_vector.x > 0:
 			PlayerAnimatedSprite.flip_h = false
 			raycast.cast_to = Vector2(16,0)
 
 func attack():
-	if Input.is_action_just_pressed("attack"):
+	if Input.is_action_just_pressed("attack") && attackFinished:
 		if grounded:
 			if attack_counter == 0:
 				attack_counter += 1
@@ -205,8 +210,9 @@ func attack():
 				PlayerAnimatedSprite.play('air-attack2')
 				attack_counter = 0
 		hit(hit_force)
-		attack_timer.start(0.5)
+		attack_timer.start(1)
 		attacking = true
+		attackFinished = false
 
 func hit(force):
 	if raycast.is_colliding():
@@ -225,8 +231,17 @@ func _on_attack_timeout():
 	attacking = false
 	attack_counter = 0
 
+func reset_attack():
+	attackFinished = true
+	attacking = false
+
+func _on_attack_end():
+	if PlayerAnimatedSprite.animation.find("attack") >= 0:
+		reset_attack()
+
 func _get_hit(force, direction):
 	if !invurnable:
+		reset_attack()
 		health -= force
 		stunned = true
 		velocity.x = direction * move_speed / 2

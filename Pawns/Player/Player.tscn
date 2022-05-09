@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://Pawns/Player/Player.gd" type="Script" id=1]
-[ext_resource path="res://Pawns/Player/adventurer.res" type="SpriteFrames" id=2]
+[ext_resource path="res://Pawns/Player/Player_1.tres" type="SpriteFrames" id=2]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 10, 13 )
@@ -15,8 +15,9 @@ jumpforce = 1000
 max_fall_speed = 200
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( 0, -1 )
 frames = ExtResource( 2 )
-animation = "idle-2"
+animation = "idle"
 frame = 3
 playing = true
 
@@ -38,3 +39,6 @@ one_shot = true
 
 [node name="Inv_Timer" type="Timer" parent="."]
 one_shot = true
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true

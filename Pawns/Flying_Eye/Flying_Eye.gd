@@ -12,7 +12,7 @@ onready var hit_timer = $hit_timer
 onready var hit_area = $Hit_Area
 var velocity = Vector2.ZERO
 var stunned = false
-var gravity = 50
+var gravity = 100
 var move_speed = 100
 var direction = 1
 var dead = false
@@ -34,8 +34,6 @@ func _process(delta):
 	else:
 		velocity.y = gravity
 	velocity = move_and_slide(velocity, Vector2.UP)
-	if global_position.x < 0 and global_position.x > 2048:
-		queue_free()
 	if health <= 0 :
 		die()
 	
@@ -49,7 +47,7 @@ func vertical_movement():
 		direction = 1
 	if position.y >= 600:
 		direction = -1
-	velocity.y = direction *  move_speed * 4
+	velocity.y = direction *  move_speed * 2
 		
 
 #func horizontal_movement(delta):
@@ -70,7 +68,7 @@ func die():
 	emit_signal('die', 'flying_eye')
 
 func on_body_enter_hit(body):
-	print_debug('eye_detect')
+	#print_debug('eye_detect')
 	if body.has_method('_get_hit'):
 		var _direction = 0
 		if position.x - body.position.x < 0:
@@ -79,3 +77,5 @@ func on_body_enter_hit(body):
 			_direction = -1
 		if !body.attacking:
 			body._get_hit(force, direction)
+	else:
+		direction = 1
